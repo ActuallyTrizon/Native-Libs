@@ -8,7 +8,7 @@ A centralized collection of compiled Android `aarch64` native binaries (`.so`) f
 | Mod / Library | Status | Target Path in JAR | Target Release |
 | :--- | :--- | :--- | :--- |
 | **Simple Voice Chat** `lame4j` `opus4j` `rnnoise4j` `speex4j` | ✅ Available | `.../natives/linux-aarch64` | [Release](../../releases/tag/SVC) |
-| **Plasmo Voice** `opus-jni-rust` `rnnoise-jni-rust` | 🚧 Planned | `.../natives/linux-aarch64` | - |
+| **Plasmo Voice** `opus-jni-rust` `rnnoise-jni-rust` | ✅ Available | `.../natives/linux-aarch64` | [Release](../../releases/tag/PZ) |
 | **Distant Horizons** `zstd-jni-dh` | 🚧 Planned | `linux/aarch64/` | - |
 
 ---
