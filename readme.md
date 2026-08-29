@@ -1,13 +1,15 @@
-- Android Native`Mod Libraries`
+- Android Native `Libraries`
 
-A centralized collection of compiled Android `aarch64` native binaries (`.so`) for Java mods built by me and true to the original source.
+A centralized collection of compiled Android `aarch64` native binaries (`.so`) built by me and true to the original source.
+
+- For Minecraft Mods and Apps or Games.
 
 - [✅] Available
 - [🚧] Planned
 - [🔨] Testing
 - [❌] Unsupported
   
-<h3>📦 Supported Libs  & Mods</h3>
+<h3>📦 Supported Libs & Mods</h3>
   
 ------------------------------
 
